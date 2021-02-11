@@ -1,0 +1,57 @@
+.box{
+     
+    align-content: center;
+    }
+.card{
+    height: 450px;
+   
+    margin-top: 40px;
+    width: 400px;
+    background-color: white !important;
+    text-align: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+.card-header h4{
+        color:black;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       
+     }
+
+     .input-group-prepend span{
+        
+        background-image: linear-gradient(to right, #C5F0F8 , #FFDED5);
+        color: black;
+        border:0 !important;
+       
+        }
+        
+        input:focus{
+        outline: 0 0 0 0  !important;
+        box-shadow: 0 0 0 0 !important;
+        
+        }
+        input::placeholder{
+            direction: rtl;
+            
+            }
+        
+       
+        .login_btn{
+        color: black;
+        background-image: linear-gradient(to right, #C5F0F8 , #FFDED5);
+        width: 355px;
+       
+        }
+        
+        
+        
+        .links{
+        color: white;
+        }
+        
+        .links a{
+        margin-left: 4px;
+        }
+        
